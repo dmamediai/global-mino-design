@@ -1,0 +1,866 @@
+You are a Senior UI/UX Designer and Digital Art Director specializing in premium mining, natural resources, geological exploration and engineering websites.
+
+Your task is to create a SAMPLE WEBSITE UI for:
+
+GLOBAL MINO
+
+Do NOT build the entire website yet.
+
+FIRST, design ONLY the HOMEPAGE as a polished visual sample.
+
+I want to approve the visual direction before creating the remaining pages.
+
+==================================================
+COMPANY
+==================================================
+
+Company Name:
+
+GLOBAL MINO
+
+Industry:
+
+Gold Mining
+Mineral Exploration
+Mining Consultancy
+Geological Services
+Responsible Resource Development
+
+Primary Operations:
+
+Sudan
+Cameroon
+Central African Republic
+
+Brand positioning:
+
+GLOBAL MINO is an Africa-focused mining and consultancy company connecting mineral opportunities with geological expertise, technical knowledge and responsible resource development.
+
+Primary brand message:
+
+UNLOCKING AFRICA'S
+MINERAL POTENTIAL.
+
+==================================================
+FUTURE WEBSITE STRUCTURE
+==================================================
+
+The final website will eventually contain:
+
+1. Home
+2. About Global Mino
+3. Operations
+4. Sudan
+5. Cameroon
+6. Central African Republic
+7. Services
+8. Gold Mining
+9. Mineral Exploration
+10. Mining Consultancy
+11. Projects
+12. Project Detail
+13. Contact
+
+IMPORTANT:
+
+DO NOT design all these pages now.
+
+Create ONLY the homepage sample.
+
+The navigation can contain links to these future pages.
+
+==================================================
+CRITICAL DESIGN RULE
+==================================================
+
+DO NOT USE A MAP ANYWHERE.
+
+No Africa map.
+No country map.
+No GIS map.
+No world map.
+
+Represent Global Mino's African operations through:
+
+• Photography
+• Country names
+• Country cards
+• Typography
+• Mining imagery
+
+The sample should remain elegant and simple.
+
+==================================================
+VISUAL DIRECTION
+==================================================
+
+Create a premium international mining-company aesthetic.
+
+The website should feel:
+
+POWERFUL
+PREMIUM
+TRUSTED
+AFRICAN
+TECHNICAL
+MODERN
+MINIMAL
+INSTITUTIONAL
+
+It should NOT feel like:
+
+a startup
+a SaaS platform
+a construction template
+a jewelry company
+a crypto company
+a generic consulting website
+
+Use strong editorial composition and cinematic mining photography.
+
+==================================================
+COLOR PALETTE
+==================================================
+
+Primary Black:
+#101419
+
+Charcoal:
+#1B1D20
+
+Mining Gold:
+#B88A2B
+
+Warm Gold:
+#C89D48
+
+Warm White:
+#F7F5F0
+
+Stone:
+#D8D1C4
+
+White:
+#FFFFFF
+
+Gold should be used carefully as an accent.
+
+Do NOT make the whole website black and gold.
+
+Alternate between:
+
+White sections
+Warm neutral sections
+Dark cinematic sections
+
+==================================================
+TYPOGRAPHY
+==================================================
+
+Create an elegant editorial typography system.
+
+Use:
+
+A sophisticated serif font for major headlines.
+
+A modern clean sans-serif font for:
+
+Navigation
+Body
+Buttons
+Labels
+Technical information
+
+Use large typography.
+
+Hero headline:
+80–100px desktop.
+
+Section headlines:
+48–64px.
+
+Body:
+16–18px.
+
+Small labels:
+uppercase with generous letter spacing.
+
+==================================================
+PHOTOGRAPHY
+==================================================
+
+Photography is extremely important.
+
+Use large, cinematic imagery showing:
+
+African mining operations
+Gold mining
+Open-pit mines
+Field geologists
+Mineral exploration
+Rock samples
+Mining machinery
+African landscapes
+Mining engineers
+Technical field teams
+
+Images should feel:
+
+REAL
+DOCUMENTARY
+CINEMATIC
+HIGH-END
+
+Avoid:
+
+Gold bars
+Jewelry
+Generic businessmen
+Generic office teams
+Fake futuristic images
+
+==================================================
+HEADER
+==================================================
+
+Create a transparent navigation over the hero.
+
+LEFT:
+
+GLOBAL MINO logo
+
+CENTER:
+
+Home
+About
+Operations
+Services
+Projects
+
+RIGHT:
+
+Contact
+
+Add premium gold-outline CTA:
+
+DISCUSS AN OPPORTUNITY →
+
+When scrolling, transition the header into a solid sticky navigation.
+
+Keep navigation minimal and sophisticated.
+
+==================================================
+HOMEPAGE
+
+EXACTLY 6 SECTIONS
+==================================================
+
+
+SECTION 01
+HERO
+==================================================
+
+Create a cinematic full-screen hero.
+
+Background:
+
+A spectacular African open-pit mining operation or mineral exploration scene.
+
+Prefer an image with:
+
+large landscape
+mining machinery
+mountains / geological terrain
+dramatic natural light
+
+Add subtle dark gradient overlay for readability.
+
+Top small label:
+
+GLOBAL MINO
+MINING • EXPLORATION • CONSULTANCY
+
+Main headline:
+
+Unlocking Africa's
+Mineral Potential.
+
+Use very large editorial typography.
+
+Make:
+
+"Mineral Potential."
+
+subtly gold or warm white.
+
+Supporting copy:
+
+Global Mino delivers mining, mineral exploration and technical consultancy across Sudan, Cameroon and the Central African Republic.
+
+Buttons:
+
+EXPLORE OUR OPERATIONS →
+
+OUR SERVICES
+
+At the bottom of the hero:
+
+SUDAN    •    CAMEROON    •    CENTRAL AFRICAN REPUBLIC
+
+Add a minimal:
+
+SCROLL TO DISCOVER ↓
+
+Do NOT place a map in the hero.
+
+==================================================
+SECTION 02
+ABOUT GLOBAL MINO
+==================================================
+
+Background:
+
+Warm white.
+
+Create a sophisticated editorial layout.
+
+Small label:
+
+ABOUT GLOBAL MINO
+
+Large headline:
+
+Expertise beneath
+the surface.
+
+Supporting copy:
+
+Global Mino combines mining expertise, geological knowledge and technical consultancy to identify, evaluate and support mineral opportunities across Africa.
+
+Layout:
+
+LEFT:
+Large headline and copy.
+
+RIGHT:
+Large vertical photograph of a geologist examining rock/mineral samples.
+
+Add a small gold vertical line.
+
+Under the text show three simple capabilities:
+
+01
+MINING
+
+02
+EXPLORATION
+
+03
+CONSULTANCY
+
+Do NOT put these inside generic cards.
+
+Use typography and spacing.
+
+CTA:
+
+DISCOVER GLOBAL MINO →
+
+==================================================
+SECTION 03
+OUR OPERATIONS
+==================================================
+
+This section replaces any map.
+
+DO NOT USE A MAP.
+
+Background:
+
+Dark charcoal.
+
+Small label:
+
+OUR OPERATIONS
+
+Headline:
+
+Three markets.
+One African vision.
+
+Supporting line:
+
+Global Mino operates across key mineral markets in Africa.
+
+Create THREE LARGE COUNTRY PANELS.
+
+Panel 01:
+
+SUDAN
+
+Background:
+Cinematic Sudan mining / geological landscape.
+
+Label:
+
+GOLD MINING
+MINERAL EXPLORATION
+
+CTA:
+
+EXPLORE SUDAN →
+
+Panel 02:
+
+CAMEROON
+
+Background:
+Dense African landscape / geological exploration / mining.
+
+Label:
+
+MINERAL EXPLORATION
+MINING CONSULTANCY
+
+CTA:
+
+EXPLORE CAMEROON →
+
+Panel 03:
+
+CENTRAL AFRICAN
+REPUBLIC
+
+Background:
+Mining / geological field photography.
+
+Label:
+
+MINING OPPORTUNITIES
+EXPLORATION
+
+CTA:
+
+EXPLORE CAR →
+
+Desktop layout:
+
+Create one large featured country panel and two smaller panels beside or below it.
+
+Do NOT make three identical cards.
+
+Create editorial asymmetry.
+
+On hover:
+
+Image slowly zooms.
+Dark overlay reduces slightly.
+Country name shifts subtly.
+Gold arrow moves.
+
+==================================================
+SECTION 04
+OUR SERVICES
+==================================================
+
+Background:
+
+Warm white / stone.
+
+Small label:
+
+WHAT WE DO
+
+Headline:
+
+Expertise across the
+mining lifecycle.
+
+Show ONLY THREE primary services.
+
+01
+
+GOLD MINING
+
+Supporting description:
+
+Supporting responsible gold mining opportunities through technical expertise and operational insight.
+
+Use large mining image.
+
+CTA:
+
+DISCOVER GOLD MINING →
+
+02
+
+MINERAL EXPLORATION
+
+Supporting description:
+
+Geological exploration, field intelligence and technical assessment to identify promising mineral opportunities.
+
+Use field geology image.
+
+CTA:
+
+EXPLORE OUR CAPABILITIES →
+
+03
+
+MINING CONSULTANCY
+
+Supporting description:
+
+Technical and strategic advisory supporting mining decisions from early opportunity assessment through development.
+
+Use engineering / consulting mining image.
+
+CTA:
+
+VIEW CONSULTANCY →
+
+IMPORTANT:
+
+Do not use three boring icon cards.
+
+Create an editorial composition.
+
+For example:
+
+Large image
++
+large number
++
+headline
++
+short copy
+
+Alternate the orientation between services.
+
+==================================================
+SECTION 05
+FEATURED PROJECTS
+==================================================
+
+Background:
+
+#101419
+
+Small gold label:
+
+PROJECTS & OPPORTUNITIES
+
+Headline:
+
+From potential
+to progress.
+
+Create a premium project showcase.
+
+IMPORTANT:
+
+Real project information has not yet been provided.
+
+Therefore use:
+
+PROJECT PLACEHOLDER
+
+instead of inventing project names, reserves, production or investment values.
+
+Create 3 visual project cards.
+
+Example:
+
+PROJECT 01
+
+SUDAN
+
+Gold Mining
+
+Project information coming soon.
+
+VIEW PROJECT →
+
+PROJECT 02
+
+CAMEROON
+
+Mineral Exploration
+
+Project information coming soon.
+
+VIEW PROJECT →
+
+PROJECT 03
+
+CENTRAL AFRICAN REPUBLIC
+
+Exploration
+
+Project information coming soon.
+
+VIEW PROJECT →
+
+Make photography dominant.
+
+Use large images.
+
+Do not show fake statistics.
+
+At the bottom:
+
+VIEW ALL PROJECTS →
+
+==================================================
+SECTION 06
+CONTACT CTA + FOOTER
+==================================================
+
+Create one final combined section.
+
+Use dramatic full-width mining landscape photography.
+
+Dark overlay.
+
+Small label:
+
+PARTNER WITH GLOBAL MINO
+
+Large headline:
+
+Let's uncover the
+next opportunity.
+
+Supporting copy:
+
+Connect with Global Mino to discuss mining opportunities, mineral exploration and technical consultancy across Africa.
+
+Primary CTA:
+
+DISCUSS AN OPPORTUNITY →
+
+Secondary CTA:
+
+CONTACT GLOBAL MINO
+
+Below this integrate the footer.
+
+==================================================
+FOOTER
+==================================================
+
+GLOBAL MINO
+
+Mining • Exploration • Consultancy
+
+Column 1:
+
+COMPANY
+
+About
+Operations
+Projects
+Contact
+
+Column 2:
+
+SERVICES
+
+Gold Mining
+Mineral Exploration
+Mining Consultancy
+
+Column 3:
+
+OPERATIONS
+
+Sudan
+Cameroon
+Central African Republic
+
+Contact information:
+
+Dr. Hashim Sulieman
+Chief Executive Officer
+
++353 85 159 0630
+
+hashim@globalmino.com
+
+globalmino.com
+
+Alsiteen St, Building No. 29
+Alriyad, Khartoum, Sudan
+
+Bottom:
+
+© GLOBAL MINO
+
+==================================================
+DESIGN DETAILS
+==================================================
+
+Use:
+
+12-column desktop grid
+
+Strong whitespace
+
+Large photography
+
+Asymmetric layouts
+
+Editorial compositions
+
+Thin gold lines
+
+Subtle topographic contour patterns
+
+Minimal borders
+
+Sharp or slightly rounded corners
+
+Premium hover states
+
+Large section numbers
+
+Strong image cropping
+
+Small uppercase labels
+
+Avoid excessive cards.
+
+Avoid excessive text.
+
+Every section should have a clear visual focal point.
+
+==================================================
+MICRO-INTERACTIONS
+==================================================
+
+Keep motion subtle and premium.
+
+Use:
+
+Hero slow image zoom
+
+Text reveal on scroll
+
+Image reveal
+
+Country panel hover
+
+Project image zoom
+
+Gold line animation
+
+Button arrow movement
+
+Navigation transition
+
+Subtle parallax
+
+Do NOT add flashy animations.
+
+==================================================
+RESPONSIVE DESIGN
+==================================================
+
+Create:
+
+Desktop — 1440px
+Mobile — 390px
+
+For this SAMPLE, prioritize the desktop homepage first.
+
+After completing desktop:
+
+Create the mobile version.
+
+On mobile:
+
+Use full-width imagery.
+
+Country operations become vertically stacked cinematic panels.
+
+Services become alternating image/text blocks.
+
+Projects become horizontally swipeable.
+
+Use a premium mobile menu.
+
+Maintain large editorial typography.
+
+==================================================
+STRICT CONTENT RULES
+==================================================
+
+DO NOT INVENT:
+
+Gold reserves
+Mining production
+Revenue
+Number of employees
+Project names
+License numbers
+Concessions
+Coordinates
+Government contracts
+Investment values
+Certifications
+Production capacity
+Years of operation
+
+If information is unavailable:
+
+Use a clean placeholder.
+
+==================================================
+FINAL INSTRUCTION
+==================================================
+
+DO NOT build all pages yet.
+
+DO NOT create a map.
+
+DO NOT create a dashboard.
+
+DO NOT create complex GIS interfaces.
+
+DO NOT add more homepage sections.
+
+CREATE ONLY A SAMPLE HOMEPAGE UI.
+
+Exactly 6 sections:
+
+01 HERO
+
+02 ABOUT GLOBAL MINO
+
+03 OUR OPERATIONS
+
+04 OUR SERVICES
+
+05 FEATURED PROJECTS
+
+06 CONTACT CTA + FOOTER
+
+The purpose of this first design is to establish and approve the complete visual direction for Global Mino.
+
+Make it look like a serious international mining company with a distinctive African identity.
+
+Prioritize:
+
+VISUAL QUALITY
+MINIMALISM
+PHOTOGRAPHY
+TYPOGRAPHY
+SPACING
+PREMIUM ART DIRECTION
+
+Start by creating the 1440px desktop homepage.
+
+Do not explain what you plan to create.
+
+CREATE THE ACTUAL UI.
